@@ -1,3 +1,3 @@
 # EmoticonVector
 
-This file contains the six dimension vectors for emoticons.
+This repository contains the  file (EmoticonVector.pdf) for six dimension vectors for emoticons.
